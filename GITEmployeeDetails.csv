@@ -1,0 +1,21 @@
+EmployeeID,FirstName,LastName,Department,Role,JoiningDate,Salary,Location,Email,Phone
+101,Arun,Kumar,IT,Developer,2019-06-12,75000,Chennai,arun.kumar@example.com,9876543210
+102,Meena,Raj,HR,Manager,2018-03-05,82000,Bangalore,meena.raj@example.com,9876543211
+103,Vijay,Shankar,Finance,Analyst,2020-01-20,68000,Hyderabad,vijay.shankar@example.com,9876543212
+104,Nivedha,Thiru,Consulting,Senior Consultant,2021-07-15,90000,Thanjavur,nivedha.thiru@example.com,9876543213
+105,Karthik,Prabhu,Sales,Executive,2017-11-10,70000,Coimbatore,karthik.prabhu@example.com,9876543214
+106,Divya,Menon,IT,Tester,2019-09-25,65000,Chennai,divya.menon@example.com,9876543215
+107,Rajesh,Pillai,Finance,Manager,2016-05-18,95000,Mumbai,rajesh.pillai@example.com,9876543216
+108,Sneha,Varma,HR,Recruiter,2020-12-01,60000,Pune,sneha.varma@example.com,9876543217
+109,Praveen,Das,Sales,Executive,2018-08-22,72000,Delhi,praveen.das@example.com,9876543218
+110,Anitha,George,Consulting,Associate,2021-04-10,67000,Chennai,anitha.george@example.com,9876543219
+111,Suresh,Rao,IT,Architect,2015-02-14,120000,Bangalore,suresh.rao@example.com,9876543220
+112,Deepa,Nair,Finance,Analyst,2019-10-30,69000,Kochi,deepa.nair@example.com,9876543221
+113,Manoj,Krishnan,Sales,Manager,2017-06-19,88000,Hyderabad,manoj.krishnan@example.com,9876543222
+114,Revathi,Iyer,HR,Executive,2020-09-12,64000,Chennai,revathi.iyer@example.com,9876543223
+115,Ajay,Patel,IT,Developer,2018-12-05,76000,Ahmedabad,ajay.patel@example.com,9876543224
+116,Geetha,Ram,Consulting,Consultant,2019-07-07,81000,Bangalore,geetha.ram@example.com,9876543225
+117,Santosh,Naidu,Finance,Analyst,2021-02-28,70000,Hyderabad,santosh.naidu@example.com,9876543226
+118,Pooja,Shah,Sales,Executive,2018-04-15,73000,Mumbai,pooja.shah@example.com,9876543227
+119,Arvind,Joshi,IT,Tester,2019-11-11,66000,Pune,arvind.joshi@example.com,9876543228
+120,Lavanya,Krishnan,HR,Manager,2016-01-25,94000,Chennai,lavanya.krishnan@example.com,9876543229
